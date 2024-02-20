@@ -1,0 +1,1 @@
+# Plant-Disease-Detection-using-Hyperspectral-Imaging-and-AI
