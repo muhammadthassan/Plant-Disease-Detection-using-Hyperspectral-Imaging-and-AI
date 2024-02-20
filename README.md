@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This project harnesses the power of hyperspectral imaging and artificial intelligence to assess the quality and detect diseases in plants. Drawing inspiration from the principles outlined in "Application of Hyperspectral Imaging Systems and Artificial Intelligence for Quality Assessment of Fruit Vegetables and Mushrooms" (Review_paper.pdf)​​. The project aims to revolutionize agricultural practices by providing a reliable, non-invasive method for early disease detection.
+This project harnesses the power of hyperspectral imaging and artificial intelligence to assess the quality and detect diseases in plants. Drawing inspiration from the principles outlined in "Application of Hyperspectral Imaging Systems and Artificial Intelligence for Quality Assessment of Fruit Vegetables and Corn ​​. The project aims to revolutionize agricultural practices by providing a reliable, non-invasive method for early disease detection.
 
 ### Preprocessing Phase
 A critical step in our project is the preprocessing of hyperspectral imaging data. This phase involves several key steps:
@@ -31,7 +31,7 @@ The preprocessing phase yielded several significant observations:
 - Thresholding effectively separated plant matter from soil, allowing for focused analysis on vegetation.
 
 ### Project Scope and Future Work
-The project aligns with recent hyperspectral research in the fields of fruits, vegetables, and mushrooms, emphasizing the importance of spectral data preprocessing in AI applications for agricultural quality assessment​​. Future work will involve implementing machine learning algorithms for disease detection and quality assessment, leveraging the preprocessed data to create robust models.
+The project aligns with recent hyperspectral research in the fields of fruits, vegetables, and corn, emphasizing the importance of spectral data preprocessing in AI applications for agricultural quality assessment​​. Future work will involve implementing machine learning algorithms for disease detection and quality assessment, leveraging the preprocessed data to create robust models.
 
 References
 - [Deep Learning Applications for Hyperspectral Imaging:A Systematic Review](https://www.researchgate.net/publication/339580294_Deep_Learning_Applications_for_Hyperspectral_Imaging_A_Systematic_Review)
